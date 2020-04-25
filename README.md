@@ -1,4 +1,4 @@
-# CS354 Student Enviornment 
+# CS354 Student Environment 
 
 This repo contains the scripts to start many of the projects and labs.
 
