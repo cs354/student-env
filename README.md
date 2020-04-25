@@ -1,5 +1,8 @@
+# CS354 Student Enviornment 
+
 This repo contains the scripts to start many of the projects and labs.
-You will need
+
+### You will need:
 
 1. Windows users need the [linux subsystem](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
 2. Everyone needs Docker [https://docs.docker.com/get-docker/](https://docs.docker.com/get-docker/)
