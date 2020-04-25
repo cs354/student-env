@@ -36,6 +36,11 @@ start_attacker() {
     echo "   ssh -L 5000:localhost:${web_server_port} ${id}@vicious.cs.northwestern.edu"
   fi
   echo " "
+  echo "   After this script finishes you will be dropped into the student container "
+  echo "   you will need it later in the lab to attack the webserver. For now you can"
+  echo "   minimize it. Nothing in this container will survive a restart. Don't store "
+  echo "   anything it!"
+  echo " "
   echo "   The site is available to attack @ http://localhost:5000"
   echo " "
   echo "   To exit: control+a+d"
